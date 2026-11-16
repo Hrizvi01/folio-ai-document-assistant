@@ -1,0 +1,15 @@
+PROJECT ATLAS — DEMONSTRATION BRIEF
+
+This is fictional sample content for testing a document assistant.
+
+Project Atlas will launch a community reading room on 15 September 2027.
+The project budget is 12,000 credits. Mira leads the project, and Jonah manages
+volunteer training. Training must finish by 1 September 2027.
+
+The three launch priorities are accessible seating, a catalog of 500 books,
+and a weekly reading program. The main risk is a delay in furniture delivery.
+The mitigation is to reserve temporary seating two weeks before launch.
+
+The team recommends reviewing volunteer coverage every Friday and recording
+unresolved tasks in a shared checklist. Success means opening on time with
+at least 20 trained volunteers and completing the 500-book catalog.
